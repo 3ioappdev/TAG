@@ -1,3 +1,1 @@
 # TAG
-# Created on February 16, 2019
-# Authors Include Luke, Logan, and the other dude...
