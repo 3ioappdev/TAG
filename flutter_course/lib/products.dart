@@ -12,7 +12,7 @@ Products(this.products);
           .map((element) => Card(
                 child: Column(
                   children: <Widget>[
-                    Image.asset('assets/food.png'),
+                    Image.asset('assets/monkieboi.jpg'),
                     Text(element)
                   ],
                 ),
