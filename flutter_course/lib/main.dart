@@ -27,8 +27,7 @@ class _MyAppState extends State<MyApp> {
                 child: RaisedButton(
                   onPressed: () {
                     setState(() {
-                    _products.add('Advanced Food Tester');
-                    print(_products);
+                      _products.add('Advanced Food Tester');
                     });
                   },
                   child: Text('Add Product'),
